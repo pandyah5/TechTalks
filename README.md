@@ -1,5 +1,5 @@
 # TechTalks
-A repo containing all the talks that I have given
+A curated repository showcasing all my technology talks.
 
 # Contents
 

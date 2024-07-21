@@ -1,5 +1,5 @@
 # TechTalks
-A curated repository showcasing all my technology talks.
+A curated repository showcasing all my tech talks.
 
 # Contents
 

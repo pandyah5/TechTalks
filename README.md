@@ -14,5 +14,5 @@ A curated repository showcasing all my tech talks.
 
 # Links to a few recorded sessions
 
-- Data Augmentation and Feature Engineering: 
+- Data Augmentation and Feature Engineering: https://youtu.be/VOIk4zG0XO8 
 - Data Engineering and Distribution: https://youtu.be/wE1CZhiBz1A

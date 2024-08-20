@@ -5,6 +5,7 @@ A curated repository showcasing all my tech talks.
 
 | Title      | Venue | Date |
 | ----------- | ----------- | ---------- |
+| Introduction to Graph Neural Networks | ML in Vancouver Group | 2024 |
 | Data Augmentation and Feature Engineering | Vancouver ML System Design Group | 2024 |
 | Data Engineering and Distribution | Vancouver ML System Design Group | 2024 |
 | Deep Reinforcement Learning Workshop | ML in Vancouver Group | 2024 |
